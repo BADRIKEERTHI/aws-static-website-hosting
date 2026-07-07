@@ -56,8 +56,7 @@ This project was completed as part of the Udacity AWS Cloud Fundamentals program
 
 This project was successfully reviewed and **approved** by Udacity.
 
-![Udacity Approved Project](udacity%20approved%20project.png)
-
+![Udacity Approved Project](udacity-approved-project.png)
 ---
 
 ## Author
